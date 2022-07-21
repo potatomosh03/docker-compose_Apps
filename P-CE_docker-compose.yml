@@ -1,4 +1,7 @@
 # This is for portainer-ce
+#
+# You should get Prompt to make a new login
+#
 version: '3.3'
 services:
   portainer-ce:
