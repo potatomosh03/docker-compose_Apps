@@ -1,4 +1,9 @@
 # This is Nginx Proxy Manager
+#
+# These should be the defualt credentials
+# Email: admin@example.com
+# Password: changeme
+#
 version: '3'
 services:
   app:
